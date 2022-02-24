@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yashypsoft.github.io/yashyp.tech/](https://yashypsoft.github.io/yashyp.tech/)
 
-- 💬 Ask me about **Javascript,Magento,PHP,Express,React**
+- 💬 Ask me about **Javascript,Magento,PHP,Express,React,Mysql**
 
 - 📫 How to reach me **yashypsoft@gmail.com**
 
